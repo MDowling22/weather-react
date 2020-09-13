@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import Weather from "./Weather";
+import Weather from "./WeatherApp";
 
 import "./App.css";
 

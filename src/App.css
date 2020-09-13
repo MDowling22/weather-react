@@ -34,3 +34,9 @@ li {
 li:first-letter {
   text-transform: capitalize;
 }
+
+.coded {
+  display: block;
+  text-align: center;
+  font-size: 16px;
+}

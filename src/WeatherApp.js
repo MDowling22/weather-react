@@ -62,7 +62,7 @@ export default function Weather() {
             <li>Wind: {weatherData.wind} km/h</li>
           </ul>
         </div>
-      </div>
+     </div>
     </div>
   );
 }

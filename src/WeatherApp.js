@@ -62,6 +62,19 @@ export default function Weather() {
             <li>Wind: {weatherData.wind} km/h</li>
           </ul>
         </div>
+        <div class= "code">
+       <footer> <small>
+      <a
+        href="https://github.com/MDowling22/weather-react"
+        target="_blank"
+        rel="noopener norefferer"
+      >
+        Open source code
+      </a>
+       by Michelle Dowling
+       </small>
+    </footer>
+      </div>
      </div>
     </div>
   );

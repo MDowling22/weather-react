@@ -63,13 +63,13 @@ export default function Weather() {
           </ul>
         </div>
         <div class= "code">
-       <footer> <small>
-      <a
-        href="https://github.com/MDowling22/weather-react"
+       <footer> 
+         <small>
+          <a href="https://github.com/MDowling22/weather-react"
         target="_blank"
         rel="noopener norefferer"
-      >
-        Open source code
+      > {""}
+        Open source code {""}
       </a>
        by Michelle Dowling
        </small>

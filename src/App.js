@@ -10,19 +10,19 @@ export default function App() {
 
         <footer>
           This project was coded by{" "}
-          <a href="www.linkedin.com/in/michelle-dowling-801499a7" target="_blank">
+          <a href="https://www.linkedin.com/in/michelle-dowling-801499a7" target="_blank">
             Michelle Dowling
           </a>{" "}
           and is{" "}
           <a
-            href="https://github.com/MDowling22/weather-react "
+            href="https://github.com/MDowling22/weather-react"
             target="_blank"
           >
             open-sourced on GitHub
           </a>{" "}
           and{" "}
           <a
-            href="https://sleepy-borg-64e92f.netlify.app "
+            href="https://sleepy-borg-64e92f.netlify.app"
             target="_blank"
           >
             hosted on Netlify

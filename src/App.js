@@ -10,13 +10,14 @@ export default function App() {
 
         <footer>
           This project was coded by{" "}
-          <a href="https://www.linkedin.com/in/michelle-dowling-801499a7" target="_blank">
+          <a href="www.linkedin.com/in/michelle-dowling-801499a7" target="_blank">
             Michelle Dowling
           </a>{" "}
           and is{" "}
           <a
             href="https://github.com/MDowling22/weather-react"
             target="_blank"
+            rel="noopener noreferrer"
           >
             open-sourced on GitHub
           </a>{" "}
@@ -24,6 +25,7 @@ export default function App() {
           <a
             href="https://sleepy-borg-64e92f.netlify.app"
             target="_blank"
+            rel="noopener noreferrer"
           >
             hosted on Netlify
           </a>
